@@ -1,0 +1,1 @@
+Dockerfile and dependency source for Nuxeo docker build.
